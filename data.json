@@ -19,6 +19,10 @@
     "response": "Here you go 😎",
     "fileUrl": "https://media1.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif"
   },
+  "Test": {
+    "response": "This is a test 🤔",
+    "fileUrl": null
+  },
   "tell me a story": {
     "response": "Sure, check this out",
     "fileUrl": "./file2.png"
