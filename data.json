@@ -15,6 +15,10 @@
     "response": "Goodbye! Have a great day!",
     "fileUrl": null
   },
+  "secret": {
+    "response": "there's a secret to my designs noone knows about",
+    "fileUrl": null
+  },
   "instagram": {
     "response": "You can check me out at www.instagram.com ",
     "fileUrl": null
