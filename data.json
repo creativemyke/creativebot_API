@@ -16,7 +16,7 @@
     "fileUrl": null
   },
   "secret": {
-    "response": "there's a secret to my designs noone knows about",
+    "response": "there's a secret to my designs nobody knows about ",
     "fileUrl": null
   },
   "instagram": {
@@ -33,7 +33,7 @@
   },
   "tell me a story": {
     "response": "Sure, check this out",
-    "fileUrl": "./file2.png"
+    "fileUrl": "https://static.wikia.nocookie.net/f3cc5ace-bf3d-46d9-8dc9-bf574dd71b83/scale-to-width/755"
   },
   "instruction": {
     "response": "Enjoy!",
